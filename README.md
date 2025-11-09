@@ -32,3 +32,6 @@ flask run
 ```bash
 flask --app filename.py --debug run
 ```
+
+### Note
+When run in debugging mode the web page auto-reloads when the file changes.
